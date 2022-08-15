@@ -9,7 +9,7 @@ Solidity - Hardhat - Javascript
 Proyecto de buildspace.so
 WavePortal (Portal de saludos público) en la blockchain de Ethereum (Rinkeby Testnet) a través de un smart contract desarrollado en Solidity.
 
-# Solidity Todo List
+# Solidity Wave Portal
 [EN] - English:
 
 Project from buildspace.so
