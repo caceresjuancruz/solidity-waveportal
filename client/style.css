@@ -1,0 +1,24 @@
+body {
+    background-color: #13262F !important;
+}
+
+.btn-warning {
+    background-color: #F28123 !important;
+    border: none !important;
+}
+
+.waveBtn {
+    background-color: #F28123 !important;
+    font-weight: bold !important;
+    font-size: x-large !important;
+}
+
+.waveBtn:hover {
+    color: #fff !important;
+}
+
+#waveText {
+    font-size: x-large;
+    outline: none;
+    font-weight: bold;
+}
