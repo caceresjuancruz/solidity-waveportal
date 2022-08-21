@@ -1,4 +1,4 @@
-const JSON_CONTRACT_PATH = '../artifacts/contracts/WavePortal.sol/WavePortal.json';
+const JSON_CONTRACT_PATH = './utils/WavePortal.json';
 const contractAddress = '0x4d5B35aeFd18f2Bf3bF0e180989de00db660E1BC'; 
 var currentAccount;
 var contract;
